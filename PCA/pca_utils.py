@@ -15,7 +15,7 @@ import plotly.offline as py
 import numpy as np
 from ipywidgets import interactive, HBox, VBox
 import plotly.express as px
-import plotly.graph_objs as go
+
 
 X = np.array(
     [
