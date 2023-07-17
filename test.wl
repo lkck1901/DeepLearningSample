@@ -1,0 +1,1 @@
+Plot[Sin[x],{x,-Pi,Pi}]
